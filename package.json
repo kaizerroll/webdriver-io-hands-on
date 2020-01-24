@@ -1,10 +1,10 @@
 {
   "name": "webdriver-io-hands-on",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "code for webdriver-io-hands-on tutorial",
+  "main": "test.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node chapter2/test.js"
   },
   "keywords": [],
   "author": "",
