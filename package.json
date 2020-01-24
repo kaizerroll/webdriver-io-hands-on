@@ -4,7 +4,7 @@
   "description": "code for webdriver-io-hands-on tutorial",
   "main": "test.js",
   "scripts": {
-    "start": "node chapter2/test.js"
+    "start": "node test.js"
   },
   "keywords": [],
   "author": "",
