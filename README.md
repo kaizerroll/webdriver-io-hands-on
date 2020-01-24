@@ -1,0 +1,1 @@
+Following along with webdriver tutorial over at https://github.com/christian-bromann/webdriverio-hands-on
